@@ -1,0 +1,32 @@
+h1{
+    size: 65px;
+    font-family: sans-serif;
+    text-align: center;
+}
+h1{
+    color:rgb(16, 0, 122);
+    text-decoration: underline;
+
+}
+
+li{
+    background-color: powderblue;
+}
+.pEul{
+    background-color:rgb(207, 207, 207);
+    color: rgb(85, 4, 4);
+    font-weight: 600;
+    font-size: 3em;
+}
+.amarelo{
+    background-color: yellow;
+}
+.vermelho{
+    background-color: tomato;
+}
+.marrom{
+    background-color:saddlebrown
+}
+body{
+    font-size: 16px;
+}
