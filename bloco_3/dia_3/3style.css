@@ -1,0 +1,17 @@
+h1, p{
+    text-align: center;
+}
+ol:hover, ul:hover{
+  background-color:darkgray;
+  cursor: pointer;
+}
+li:active{
+  background-color:dimgray;
+  font-weight: bold;
+}
+li{
+  list-style: none;
+  
+}
+
+
