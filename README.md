@@ -1,1 +1,2 @@
-Respositório de exercicios Trybe. 
+Respositório criado para exercicios Trybe.
+Turma 14 - Tribo B 
