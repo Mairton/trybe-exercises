@@ -11,5 +11,3 @@ for(let index=0; index <noEmergencyTasksHeaders.length; index+=1){
 }
 
 document.querySelector('#footer-container').style.backgroundColor = 'black';
-// const footer = document.getElementById('footer-container');
-// footer.style.backgroundColor = 'rgb(0, 53, 51)';
