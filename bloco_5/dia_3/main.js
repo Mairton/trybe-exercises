@@ -22,7 +22,7 @@ thirdDiv.addEventListener('click', classTech)
 //  3.Crie uma função que, ao digitar na caixa de texto, altere o texto do elemento
 // com a classe 'tech';
 function changeText(a){
-document.querySelector('.tech').innerText = a.target.value;
+  document.querySelector('.tech').innerText = a.target.value;
 }
 input.addEventListener('input', changeText)
 
